@@ -1,0 +1,12 @@
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Core\bin\Debug\net7.0\Karl.Core.deps.json
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Core\bin\Debug\net7.0\Karl.Core.dll
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Core\bin\Debug\net7.0\Karl.Core.pdb
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Core\obj\Debug\net7.0\Karl.Core.csproj.AssemblyReference.cache
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Core\obj\Debug\net7.0\Karl.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Core\obj\Debug\net7.0\Karl.Core.AssemblyInfoInputs.cache
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Core\obj\Debug\net7.0\Karl.Core.AssemblyInfo.cs
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Core\obj\Debug\net7.0\Karl.Core.csproj.CoreCompileInputs.cache
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Core\obj\Debug\net7.0\Karl.Core.dll
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Core\obj\Debug\net7.0\refint\Karl.Core.dll
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Core\obj\Debug\net7.0\Karl.Core.pdb
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Core\obj\Debug\net7.0\ref\Karl.Core.dll

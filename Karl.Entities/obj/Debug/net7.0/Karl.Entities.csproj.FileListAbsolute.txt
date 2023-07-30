@@ -1,0 +1,15 @@
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\bin\Debug\net7.0\Karl.Entities.deps.json
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\bin\Debug\net7.0\Karl.Entities.dll
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\bin\Debug\net7.0\Karl.Entities.pdb
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\obj\Debug\net7.0\Karl.Entities.csproj.AssemblyReference.cache
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\obj\Debug\net7.0\Karl.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\obj\Debug\net7.0\Karl.Entities.AssemblyInfoInputs.cache
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\obj\Debug\net7.0\Karl.Entities.AssemblyInfo.cs
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\obj\Debug\net7.0\Karl.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\obj\Debug\net7.0\Karl.Entities.dll
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\obj\Debug\net7.0\refint\Karl.Entities.dll
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\obj\Debug\net7.0\Karl.Entities.pdb
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\obj\Debug\net7.0\ref\Karl.Entities.dll
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\bin\Debug\net7.0\Karl.Core.dll
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\bin\Debug\net7.0\Karl.Core.pdb
+C:\Users\Qonce Abbasova\source\repos\Karl\Karl.Entities\obj\Debug\net7.0\Karl.Entities.csproj.CopyComplete
